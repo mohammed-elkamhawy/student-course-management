@@ -8,7 +8,6 @@ This is a simple **command-line application** built using **Node.js** and **Mong
 
   -  Add / update / delete students and courses
   -  Enroll students and update grades
- #-  Perform powerful queries:
   - List students in a course
   - List courses for a student
   - Top GPA students
